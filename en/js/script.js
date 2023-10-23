@@ -31,7 +31,7 @@ function clickMenu2() {
 
 function carregar() {
     //window.alert('Vire o celular na posição horizontal para melhor visualizar o site...')
-    //window.alert('Aprecie com moderação ...')
+    window.alert('In English ...')
     var msg = window.document.getElementById('msg')
     var bib = window.document.getElementById('bib')
     var img = window.document.getElementById('Imagem')
@@ -98,7 +98,7 @@ function carregar() {
       }
 
 
-    bib.innerHTML = `Versículo do Dia - Bíblia: ${dia} \u{1F447}`
+    bib.innerHTML = `Verse of the Day - Bible: ${dia} \u{1F447}`
     //eu2.innerHTML = `\u{1F4A2} Trabalho com elaboração de Site: Contate-me \u{1F4A2}`
     eu.innerHTML = `\u{1F4A2} Elaboração de Sites e Lojas Virtuais \u{1F4A2} <br> Contate-me pelos Links Abaixo \u{1F447}`
      
