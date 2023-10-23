@@ -355,7 +355,7 @@ p {
   color: var(--cor6);
 }
 
-section.imagem {
+section.imagem { 
     
     margin: 70px -20px;
 
@@ -629,6 +629,22 @@ aside h3 > p > a:hover {
   background-color: var(--cor3);
   color: var(--cor6);
 }
+
+div#link > a {
+  color: var(--cor1);
+  background-color: var(--cor6);
+  padding: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 50px;
+  transition-duration: .5s;
+}
+
+div#link > a:hover {
+  background-color: var(--cor3);
+  color: var(--cor6);
+}
+
 
 ins {
   text-decoration: none;
