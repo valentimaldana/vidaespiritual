@@ -55,13 +55,13 @@ function carregar() {
     //var hora = 10
     
     if (hora >= 0 && hora < 12) {
-        var ola = 'Bom Dia'      
+        var ola = 'Good morning'      
     } else if (hora >= 12 && hora < 18) {
-        var ola = 'Boa Tarde'
+        var ola = 'Good afternoon'
     } else {
-        var ola = 'Boa Noite'
+        var ola = 'Goodnight'
     }
-    msg.innerHTML = `Agora são ${hora} Horas UTC, ${ola} `
+    msg.innerHTML = `It is now ${hora} UTC Time, ${ola} `
     
     if (hora >= 0 && hora < 12) {
         img.src = 'img/Dia.png'
