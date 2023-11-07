@@ -27,8 +27,15 @@ function clickMenu2() {
  
 }
 
+const scrollToTop = () => {
+  window.scrollTo({
+ top: 0,
+ behavior: 'smooth'
+  })
+ }
 
 
+ 
 function carregar() {
     //window.alert('Vire o celular na posição horizontal para melhor visualizar o site...')
     //window.alert('Aprecie com moderação ...')

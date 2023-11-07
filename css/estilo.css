@@ -26,6 +26,18 @@
 
 }
 
+button {
+  padding: 10px;
+  border-radius: 20%;
+  background-color: var(--cor7);
+  color: var(--cor0);
+ 
+}
+button:hover{
+  opacity: .8;
+}
+
+
 section#omenuO > a > img {
   width: 50px;
   margin: 10px;
