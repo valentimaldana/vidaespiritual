@@ -324,6 +324,16 @@ main > h3#lo {
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.432);
 }
 
+main > section.imagem h3#lo {
+  margin-top: -2px;
+  margin-left: 150px;
+  font-family: var(--fonte-padrao);
+  text-align: center;
+  font-size: medium;
+  color: var(--cor5);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.432);
+}
+
 h1#dois {
   margin-top: -2px;
   text-align: justify;
