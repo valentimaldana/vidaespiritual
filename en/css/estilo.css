@@ -26,6 +26,24 @@
 
 }
 
+#link-topo {
+  text-decoration: none;
+  color: white;
+  background-color: var(--cor7);
+  padding: 10px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  border-radius: 20%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.541);
+  opacity: .8;
+}
+
+#link-topo:hover{
+  opacity: 1;
+  box-shadow: none;
+}
+
 section#omenuO > a > img {
   width: 50px;
   margin: 10px;

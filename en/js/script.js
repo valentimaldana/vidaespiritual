@@ -31,7 +31,7 @@ function clickMenu2() {
 
 function carregar() {
     //window.alert('Vire o celular na posição horizontal para melhor visualizar o site...')
-    window.alert('In English ...')
+    //window.alert('In English ...')
     var msg = window.document.getElementById('msg')
     var bib = window.document.getElementById('bib')
     var img = window.document.getElementById('Imagem')
