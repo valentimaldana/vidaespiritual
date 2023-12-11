@@ -26,6 +26,131 @@
 
 }
 
+i#burguer {
+  background-color: var(--cor6);
+  color: var(--cor0);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+i#burguer:hover {
+  
+  background-color: var(--cor1);
+  color: var(--cor6);
+}
+
+.submenu {   
+  position: relative;
+}
+
+.submenu:hover .dropdown {
+  display: block;
+}
+
+
+.dropdown {  
+  position: absolute;
+  top: 10;
+  left: 0;
+  z-index: 99;
+  padding: 10px 5px;
+  background: var(--cor6);
+  min-width: 100px;
+  border: solid var(--cor0) 3px;
+  border-radius: 0px 12px 12px 12px;
+  list-style-type: none;
+  
+  display: none;
+}
+
+.dropdown a {
+  text-decoration: none;
+  color: var(--cor0);
+  font-weight: bold;
+  border-radius: 5px;
+  transition-duration: .5s;
+  padding: 8px;
+}
+
+.dropdown a:hover {
+  background-color: var(--cor3);
+  color: var(--cor6);
+  font-weight: bold;
+}
+
+@media(max-width: 768px) {
+  .dropdown {
+   position: static;
+   border: solid var(--cor0) 1px;
+   display: block;
+   text-align: center;
+  }
+ }
+
+menu {
+  box-shadow: 0px 5px 7px #0000009d;
+  background-color: var(--cor6);
+  padding: 2px;
+}
+
+
+menu > ul {
+  list-style-type: none;
+}
+
+menu > ul > li > a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  background-color: var(--cor6);
+  
+  text-align: center;
+  
+
+  color: var(--cor0);
+  
+  
+  font-weight: bold;
+  border-radius: 5px;
+  transition-duration: .5s;
+}
+
+menu > ul > li > a:hover {
+  background-color: var(--cor3);
+  color: var(--cor6);
+  font-weight: bold;
+}
+
+section#omenu > a > img {
+  width: 40px;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 20%;
+  background-color: rgba(0, 0, 255, 0);
+  margin-top: -50px;
+  margin-left: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.541);
+  box-sizing: border-box;
+  
+}
+
+section#omenu > a > img:hover {
+  border: 2px solid rgba(255, 255, 255, 0.212);
+  box-shadow: none;
+}
+
+section#omenu > a {
+  text-decoration: none;
+}
+
+
+
+
+
+
 body {
    /* background: rgb(99, 99, 204); */
    /*background-image: linear-gradient(to right, var(--cor5), #027333, var(--cor0));*/
