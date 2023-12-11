@@ -46,10 +46,13 @@ function carregar() {
     //var salm = window.document.getElementById('salmo')
     var ran = Math.floor(150* Math.random() +1)
     var ran2 = Math.floor(31* Math.random() +1)
+    var ran3 = Math.floor(29* Math.random() +1)
     const a = document.querySelector("#salmo")
     const b = document.querySelector("#proverbo")
+    const c = document.querySelector("#invocacao")
     a.href = `biblia/salmos/${ran}.html`
     b.href = `biblia/proverbios/${ran2}.html`
+    c.href = `invocacao/${ran3}.html`
     console.log(a)
     console.log(b)
 
