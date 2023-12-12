@@ -45,6 +45,45 @@
 }
 
 
+
+#link-topoT {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  left: 10px;
+  top: 230px;
+  border-radius: 50%;
+  box-shadow: none;
+  opacity: .9;
+}
+
+#link-topoT:hover{
+  opacity: 1;
+  box-shadow: none;
+}
+
+#link-topoT  > img {
+  width: 50px;
+  margin: 0px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 255, 0);
+  margin-top: -50px;
+  margin-left: 10px;
+  box-shadow: 8px 5px 2px rgba(0, 0, 0, 0.445);
+  box-sizing: border-box;
+  
+}
+
+#link-topoT > img:hover{
+  
+  margin-left: 15px;
+  box-shadow: none;
+}
+
+
 section#omenuO > a > img {
   width: 50px;
   margin: 10px;
