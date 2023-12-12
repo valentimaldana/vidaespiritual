@@ -119,7 +119,7 @@ i#burguer:hover {
   .dropdown {
    position: static;
    border: solid var(--cor0) 1px;
-   display: block;
+   display: none;
    text-align: center;
   }
  }
