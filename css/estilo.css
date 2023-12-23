@@ -49,6 +49,53 @@ aside > ul > a:hover {
   font-weight: bold;
 }
 
+div > ul > a {
+ 
+  padding: 10px;
+  text-decoration: none;
+  background-color: var(--cor6);
+  
+  text-align: center;
+  
+
+  color: var(--cor0);
+  
+  
+  font-weight: bold;
+  border-radius: 5px;
+  transition-duration: .5s;
+}
+
+div > ul > a:hover {
+  background-color: var(--cor3);
+  color: var(--cor6);
+  font-weight: bold;
+}
+
+
+h1 > ul > a {
+ 
+  padding: 10px;
+  text-decoration: none;
+  background-color: var(--cor6);
+  
+  text-align: center;
+  
+
+  color: var(--cor0);
+  
+  
+  font-weight: bold;
+  border-radius: 5px;
+  transition-duration: .5s;
+}
+
+h1 > ul > a:hover {
+  background-color: var(--cor3);
+  color: var(--cor6);
+  font-weight: bold;
+}
+
 #link-topo {
   text-decoration: none;
   color: white;
