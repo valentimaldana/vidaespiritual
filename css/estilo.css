@@ -26,6 +26,115 @@
 
 }
 
+ul > a {
+ 
+  padding: 10px;
+  text-decoration: none;
+  background-color: var(--cor6);
+  
+  text-align: center;
+  
+
+  color: var(--cor0);
+  
+  
+  font-weight: bold;
+  border-radius: 5px;
+  transition-duration: .5s;
+}
+
+ul > a:hover {
+  background-color: var(--cor3);
+  color: var(--cor6);
+  font-weight: bold;
+}
+
+
+#link-0 {
+  position: fixed;
+  left: 10px;
+  top: 200px;
+}
+#link-1 {
+  position: fixed;
+  left: 10px;
+  top: 300px;
+}
+#link-2 {
+  position: fixed;
+  left: 10px;
+  top: 350px;
+}
+#link-3 {
+  position: fixed;
+  left: 10px;
+  top: 400px;
+}
+
+#link-4 {
+  position: fixed;
+  left: 150px;
+  top: 300px;
+}
+#link-5 {
+  position: fixed;
+  left: 150px;
+  top: 350px;
+}
+#link-6 {
+  position: fixed;
+  left: 150px;
+  top: 400px;
+}
+
+#link-7 {
+  position: fixed;
+  left: 260px;
+  top: 300px;
+}
+#link-8 {
+  position: fixed;
+  left: 260px;
+  top: 350px;
+}
+#link-9 {
+  position: fixed;
+  left: 260px;
+  top: 400px;
+}
+
+#link-10 {
+  position: fixed;
+  left: 340px;
+  top: 300px;
+}
+#link-11 {
+  position: fixed;
+  left: 340px;
+  top: 350px;
+}
+#link-12 {
+  position: fixed;
+  left: 340px;
+  top: 400px;
+}
+
+#link-13 {
+  position: fixed;
+  left: 10px;
+  top: 450px;
+}
+#link-14 {
+  position: fixed;
+  left: 150px;
+  top: 450px;
+}
+#link-15 {
+  position: fixed;
+  left: 260px;
+  top: 450px;
+}
+
 aside > ul > a {
  
   padding: 10px;
