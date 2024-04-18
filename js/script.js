@@ -37,7 +37,7 @@ const scrollToTop = () => {
 
  
 function carregar() {
-    //window.alert('Vire o celular na posição horizontal para melhor visualizar o site...')
+    window.alert('Este Site não tem o intuito de converter ninguém; não quer mudar ninguém de direção; A EDUCAÇÃO proposta aqui é para Acender uma Chama dentro de cada um que o faz ter a vontade de buscar e o Guiar no Caminho desses estudos; Não estamos aqui para preencher um recipiente ou guia-lo em qualquer direção e sim apontar a Presença dentro de cada um que o Guiará; Aquele que está vazio, que não tem direção nenhuma, qualquer direção para a Luz, o retorno a Casa do Pai é BENÉFICA; Jesus não falou que Ele fazia a Obra, mas o CRISTO nEle o fazia, e que cada um tem o Seu Cristo dentro si, o FILHO de DEUS é o CRISTO dentro de CADA um, dentro de cada individuo que Deus emitiu, e é Atravéz do Seu Cristo Pessoal que você chega ao Pai, como Buddha diz que cada um tem que achar o Buddha que mora dentro dele, ou seja, não é a personalidade Jesus ou Buddha ou outra qualquer que é a UNICA para chegar no Pai, mas sim A PRESENÇA de DEUS que Havia em Jesus e Buddha que é a ùnica que leva ao Pai, que é a que você tem que buscar dentro de ti, é Só Ela, a Sua Presença que leva ao Pai, Jesus e Buddha SÂO UM FAROL para você copiar, para seguir os seus passos; Não espere que seja Jesus ou Buddha que vai leva-los ao Pai senão sua Próppria Presença!')
     //window.alert('Aprecie com moderação ...')
     var msg = window.document.getElementById('msg')
     var bib = window.document.getElementById('bib')
