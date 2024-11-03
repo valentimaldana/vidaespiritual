@@ -37,7 +37,7 @@ const scrollToTop = () => {
 
  
 function carregar() {
-    window.alert('NOTE: The English version does NOT correspond to the Portuguese version (it is out of date) <><><><> OBS: A Versão em Inglês NÃO corresponde a em português ( está desatualizada )')
+    window.alert(' VIRE O CELULAR NA POSIÇÂO HORIZONTAL PARA MELHOR SE ADAPTAR A SUA TELA >> NOTE: The English version does NOT correspond to the Portuguese version (it is out of date) ')
     //window.alert('Aprecie com moderação ...')
     var msg = window.document.getElementById('msg')
     var bib = window.document.getElementById('bib')
