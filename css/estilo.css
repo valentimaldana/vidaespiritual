@@ -802,6 +802,17 @@ section.ss#fotos2 {
   box-shadow: 5px 5px 5px rgba(145, 207, 136, 0.555);
 }
 
+section.ss#fotos29 {
+  color: rgb(37, 28, 28);
+  background-color: var(--cor0);
+  border-radius: 30px 0px;
+  padding: 15px;
+  max-width: 480px;
+  margin: left;
+  margin-top: 30px;
+  box-shadow: 5px 5px 5px var(--cor0);
+}
+
 section.ss#fotos2a {
   color: rgb(37, 28, 28);
   background-color: var(--cor0);
