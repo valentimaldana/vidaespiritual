@@ -572,6 +572,24 @@ menu > ul > li > a:hover {
 }
 
 /**/
+
+ a#nada {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  background-color: var(--cor6);
+  
+  text-align: center;
+  
+
+  color: var(--cor0);
+  
+  
+  font-weight: bold;
+  border-radius: 5px;
+  
+}
+
 /**/
 
 
