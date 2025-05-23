@@ -44,14 +44,14 @@ function carregar() {
     var img = window.document.getElementById('Imagem')
     var eu = window.document.getElementById('Eu')
     //var salm = window.document.getElementById('salmo')
-    var ran = Math.floor(150* Math.random() +1)
-    var ran2 = Math.floor(31* Math.random() +1)
-    const a = document.querySelector("#salmo")
-    const b = document.querySelector("#proverbo")
-    a.href = `biblia/salmos/${ran}.html`
-    b.href = `biblia/proverbios/${ran2}.html`
-    console.log(a)
-    console.log(b)
+    //var ran = Math.floor(150* Math.random() +1)
+    //var ran2 = Math.floor(31* Math.random() +1)
+    //const a = document.querySelector("#salmo")
+    //const b = document.querySelector("#proverbo")
+    //a.href = `biblia/salmos/${ran}.html`
+    //b.href = `biblia/proverbios/${ran2}.html`
+    //console.log(a)
+    //console.log(b)
 
     //salm.innerHTML.href = `biblia/salmos/${ran}.html`
   
