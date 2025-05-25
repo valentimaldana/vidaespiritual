@@ -20,6 +20,25 @@
 
 }
 
+@media screen and (max-width: 768px) {
+  
+    body > ul#ul {
+        display: none;
+    }
+
+    body > ul#ul {
+        display: none;
+    }
+
+   ul {
+        display: block; 
+    }
+
+    ul#ul {
+        display: inline-block;
+    }
+
+}
 
 
 
