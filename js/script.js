@@ -27,6 +27,43 @@ function clickMenu2() {
  
 }
 
+function clickMenu3() {
+  if (itens3.style.display == 'block') {
+      itens3.style.display = 'none'
+  } else {
+      itens3.style.display = 'block'
+  }
+ 
+}
+
+function clickMenu4() {
+  if (itens4.style.display == 'block') {
+      itens4.style.display = 'none'
+  } else {
+      itens4.style.display = 'block'
+  }
+ 
+}
+
+function clickMenu5() {
+  if (itens5.style.display == 'block') {
+      itens5.style.display = 'none'
+  } else {
+      itens5.style.display = 'block'
+  }
+ 
+}
+
+
+function clickMenu6() {
+  if (itens6.style.display == 'block') {
+      itens6.style.display = 'none'
+  } else {
+      itens6.style.display = 'block'
+  }
+ 
+}
+
 const scrollToTop = () => {
   window.scrollTo({
  top: 0,

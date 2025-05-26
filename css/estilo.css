@@ -483,6 +483,94 @@ i#burguer:hover {
   color: var(--cor6);
 }
 
+
+
+#burguer2 {
+  background-color: var(--cor6);
+  color: var(--cor0);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+#burguer2:hover {
+  
+  background-color: var(--cor1);
+  color: var(--cor6);
+}
+
+i#burguer3 {
+  background-color: var(--cor6);
+  color: var(--cor0);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+i#burguer3:hover {
+  
+  background-color: var(--cor1);
+  color: var(--cor6);
+}
+
+i#burguer4 {
+  background-color: var(--cor6);
+  color: var(--cor0);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+i#burguer4:hover {
+  
+  background-color: var(--cor1);
+  color: var(--cor6);
+}
+
+
+i#burguer5 {
+  background-color: var(--cor6);
+  color: var(--cor0);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+i#burguer5:hover {
+  
+  background-color: var(--cor1);
+  color: var(--cor6);
+}
+
+
+i#burguer6 {
+  background-color: var(--cor6);
+  color: var(--cor0);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  
+}
+
+i#burguer6:hover {
+  
+  background-color: var(--cor1);
+  color: var(--cor6);
+}
+
+
+
+
+
 .submenu {   
   position: relative;
 }

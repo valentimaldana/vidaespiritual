@@ -10,6 +10,22 @@
         display: none;
     }
 
+    body > i#burguer3 {
+        display: none;
+    }
+
+     body > i#burguer4 {
+        display: none;
+    }
+
+      body > i#burguer5 {
+        display: none;
+    }
+
+      body > i#burguer6 {
+        display: none;
+    }
+
     menu {
         display: block; 
     }
