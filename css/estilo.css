@@ -1275,3 +1275,299 @@ footer a:hover {
 }
 
 
+
+#link-0 {
+  
+  text-decoration: none;
+  color: rgb(30, 4, 73);
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 20px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-1 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 120px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-1:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 120px;
+}
+
+
+#link-2 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 170px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-2:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 170px;
+}
+
+#link-3 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 220px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-3:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 220px;
+}
+
+#link-4 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 270px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-4:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 270px;
+}
+
+#link-5 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 320px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-5:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 320px;
+}
+
+#link-6 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 370px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-6:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 370px;
+}
+
+#link-7 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 420px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-7:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 420px;
+}
+
+
+
+#link-8 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 470px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-8:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 470px;
+}
+
+#link-9 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 520px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-9:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 520px;
+}
+
+#link-10 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 570px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-10:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 570px;
+}
+
+#link-11 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 620px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-11:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 620px;
+}
+
+#link-12 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 670px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-12:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 670px;
+}
+
+#link-13 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 720px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-13:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 720px;
+}
+
+#link-14 {
+  
+  text-decoration: none;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.034);
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  top: 770px;
+  box-shadow: none;
+  opacity: .8;
+}
+
+#link-14:hover{
+  opacity: 1;
+  box-shadow: none;
+  right: 10px;
+  top: 770px;
+}
