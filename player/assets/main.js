@@ -20,20 +20,20 @@ let next_song_index;
 
 let songs = [
     {
-        title: 'M1',
-        artist: 'By Mixkit 01',
+        title: 'Jazz Sax',
+        artist: 'By Lord 01',
         song_path:'music/m1.mp3',
         img_path: './assets/images/m1.png'
     },
     {
-        title: 'MM2',
-        artist: 'By Mixkit 02',
+        title: 'Relax Piano',
+        artist: 'By Lord 02',
         song_path: 'music/m2.mp3',
         img_path: './assets/images/m2.png'
     },
     {
-        title: 'MMM3 ',
-        artist: 'By Mixkit 03',
+        title: 'Relax Guitar ',
+        artist: 'By Lord 03',
         song_path: 'music/m3.mp3',
         img_path: './assets/images/m3.png'
     }
