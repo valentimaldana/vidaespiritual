@@ -22,20 +22,20 @@ let next_song_index;
 /* ações para acessar e mostas informações sobre as músicas */
 let songs = [
     {
-        title: 'M1',
-        artist: 'By Mixkit 01',
+        title: 'Sax',
+        artist: 'By Lord',
         song_path:'music/m1.mp3',
         img_path: './assets/images/m1.png'
     },
     {
-        title: 'MM2',
-        artist: 'By Mixkit 02',
+        title: 'Piano',
+        artist: 'By Lord',
         song_path: 'music/m2.mp3',
         img_path: './assets/images/m2.png'
     },
     {
-        title: 'MMM3 ',
-        artist: 'By Mixkit 03',
+        title: 'Guitar ',
+        artist: 'By Lord',
         song_path: 'music/m3.mp3',
         img_path: './assets/images/m3.png'
     }
