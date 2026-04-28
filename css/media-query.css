@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+  
+    body > i#burguer {
+        display: none;
+    }
+
+    body > i#burguer2 {
+        display: none;
+    }
+
+    body > i#burguer3 {
+        display: none;
+    }
+
+     body > i#burguer4 {
+        display: none;
+    }
+
+      body > i#burguer5 {
+        display: none;
+    }
+
+      body > i#burguer6 {
+        display: none;
+    }
+
+    menu {
+        display: block; 
+    }
+
+    menu > ul > li {
+        display: inline-block;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+  
+    body > ul#ul {
+        display: none;
+    }
+
+    body > ul#ul {
+        display: none;
+    }
+
+   ul {
+        display: block; 
+    }
+
+    ul#ul {
+        display: inline-block;
+    }
+
+}
+
+
+
+
